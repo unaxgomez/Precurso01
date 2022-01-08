@@ -1,0 +1,13 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/bin/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/bin/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/bin/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/bin/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/bin/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.csproj.AssemblyReference.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/01_Ejemplo_HolaMundo/obj/Debug/netcoreapp2.1/01_Ejemplo_HolaMundo.genruntimeconfig.cache

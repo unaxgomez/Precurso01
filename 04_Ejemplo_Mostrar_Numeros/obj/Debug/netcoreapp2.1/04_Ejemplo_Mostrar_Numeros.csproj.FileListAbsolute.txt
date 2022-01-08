@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Debug/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.genruntimeconfig.cache

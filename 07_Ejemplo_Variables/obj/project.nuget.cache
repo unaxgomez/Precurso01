@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Pq7gbdzh93YfxGMw3+FvWBZ7Y2JCgxFrVYU0fomoLxTCrnE75X0sSFacmZxL81n47BX1+iSQ15UPcw9ylYNvg==",
+  "success": true,
+  "projectFilePath": "/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/07_Ejemplo_Variables/07_Ejemplo_Variables.csproj",
+  "expectedPackageFiles": [
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/unaxgomez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "10_Ejercicio_Variables/1.0.0": {
+        "runtime": {
+          "10_Ejercicio_Variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10_Ejercicio_Variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

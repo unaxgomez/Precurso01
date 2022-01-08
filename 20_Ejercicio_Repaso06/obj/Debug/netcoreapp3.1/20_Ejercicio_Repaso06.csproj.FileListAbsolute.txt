@@ -1,0 +1,13 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.csproj.AssemblyReference.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.genruntimeconfig.cache

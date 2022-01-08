@@ -1,0 +1,6 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/Proyecto_Final/Proyecto_Final/bin/Debug/Proyecto_Final.exe
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/Proyecto_Final/Proyecto_Final/bin/Debug/Proyecto_Final.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/Proyecto_Final/Proyecto_Final/obj/Debug/Proyecto_Final.csproj.AssemblyReference.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/Proyecto_Final/Proyecto_Final/obj/Debug/Proyecto_Final.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/Proyecto_Final/Proyecto_Final/obj/Debug/Proyecto_Final.exe
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/Proyecto_Final/Proyecto_Final/obj/Debug/Proyecto_Final.pdb

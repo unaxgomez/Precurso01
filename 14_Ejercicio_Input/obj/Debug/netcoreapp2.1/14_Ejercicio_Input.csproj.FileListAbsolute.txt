@@ -1,0 +1,13 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.csproj.AssemblyReference.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/bin/Debug/netcoreapp2.1/14_Ejercicio_Input.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/bin/Debug/netcoreapp2.1/14_Ejercicio_Input.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/bin/Debug/netcoreapp2.1/14_Ejercicio_Input.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/bin/Debug/netcoreapp2.1/14_Ejercicio_Input.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/bin/Debug/netcoreapp2.1/14_Ejercicio_Input.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/01_Variables_Y_Tipos/14_Ejercicio_Input/obj/Debug/netcoreapp2.1/14_Ejercicio_Input.genruntimeconfig.cache
